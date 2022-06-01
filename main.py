@@ -5,7 +5,7 @@ import discord
 import requests
 from pycoingecko import CoinGeckoAPI
 
-TOKEN = 'ODUwMDA5NDg0MDk2NDM4MzQy.GKnq_H.uaS42ocohCoD-sRNAhWGG-Zk6d34WAMZJz3giM'
+TOKEN = 'ODUwMDA5NDg0MDk2NDM4MzQy.GZPJp1.Zbkbot-WxyYnIN92wrUigGASjFfjtKT8K8b9oQ'
 
 client = discord.Client()
 
