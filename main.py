@@ -4,8 +4,9 @@ import random
 import discord
 import requests
 from pycoingecko import CoinGeckoAPI
+from token import token
 
-TOKEN = 'ODUwMDA5NDg0MDk2NDM4MzQy.GKnq_H.uaS42ocohCoD-sRNAhWGG-Zk6d34WAMZJz3giM'
+TOKEN = token
 
 client = discord.Client()
 
